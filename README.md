@@ -1,0 +1,1 @@
+![example workflow](https://github.com/martishevich/test-github-actions-ci/.github/workflows/workflow.yml/badge.svg)
