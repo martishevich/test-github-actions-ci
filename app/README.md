@@ -1,1 +1,1 @@
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://github.com/martishevich/test-github-actions-ci/app/actions/workflows/workflow.yml/badge.svg)
